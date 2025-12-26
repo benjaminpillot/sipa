@@ -1,2 +1,2 @@
-# sipa
-Formation Python réalisée lors du SIPA
+# SIPA
+Données et notebooks Python utilisés et produits lors du SIPA
